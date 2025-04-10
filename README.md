@@ -1,1 +1,3 @@
-# telegram-auto-join
+start
+
+python join.py
