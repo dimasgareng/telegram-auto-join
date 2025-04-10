@@ -3,5 +3,15 @@
     "session": "akun1",
     "api_id": 123456,
     "api_hash": "abc123abc123abc123abc123"
+  },
+  {
+    "session": "akun2",
+    "api_id": 789012,
+    "api_hash": "def456def456def456def456"
+  },
+  {
+    "session": "akun3",
+    "api_id": 345678,
+    "api_hash": "ghi789ghi789ghi789ghi789"
   }
 ]
